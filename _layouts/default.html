@@ -1,32 +1,22 @@
----
----
 <!DOCTYPE html>
-<html>
+<html lang="en-us">
 
 {% include head.html %}
 
-  <body>
-
-        {% include sidebar.html %}
-        <div class="menu-icon"></div>
-      <div class="contents">
+<body>
+    
+    <div class="page-wrap">
         {% include header.html %}
-
-      <div class="page-content">
-          <div class="wrapper">
+        <main>
             {{ content }}
-          </div>
-      </div>
+        </main>
+    </div>
+    
+    {% include footer.html %}
 
-{% include footer.html %}
-      </div>
-
-{% include 3d-menu.html %}
-
-
-{% if site.analytics %}
- {% include analytics.html %}
-{% endif %}
-
+    <script src="/assets/js/vendor/jquery.min.js"></script>
+    <script src="/assets/js/vendor/semantic.min.js"></script>
+    <script type="/assets/js/main.js"></script>
 </body>
+
 </html>
