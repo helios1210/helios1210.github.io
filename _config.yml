@@ -3,7 +3,7 @@ description: 'A Modern Jekyll Theme'
 
 markdown: kramdown
 highlighter: rouge
-logo: ture
+logo: false
 paginate: 15
 baseurl: /
 plugins: [jekyll-gist]
