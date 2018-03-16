@@ -1,9 +1,9 @@
-title : Wall-E - Jekyll
+title : Helios的网站
 description: 'A Modern Jekyll Theme'
 
 markdown: kramdown
 highlighter: rouge
-logo: false
+logo: ture
 paginate: 15
 baseurl: /
 plugins: [jekyll-gist]
