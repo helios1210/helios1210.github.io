@@ -1,6 +1,6 @@
-title: Xian   # your title
-author: Xian # your name
-description: Just have some fun here # your description
+title: Helios'Blog   # your title
+author: Helios # your name
+description: Yep! Just for fun # your description
 avatar: /images/avatar.png # change avatar
 
 # Build Settings
@@ -8,7 +8,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Pagination
-paginate: 5
+paginate: 4
 paginate_path: "/page:num/"
 gems: [jekyll-paginate]
 

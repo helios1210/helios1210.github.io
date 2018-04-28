@@ -4,10 +4,6 @@ title: About
 active: about
 ---
 
+随便写写，记录生活和思考
 
-This is a simple two-column [jekyll](https://jekyllrb.com/) theme delicated to wrting.
-
-You can get to know more about this theme [here]().
-
-
-Theme inspire by [Farbtle](https://github.com/YCF/Farbtle), I steal most CSS from him.
+Theme 传送门： [Xian](https://github.com/YCF/Farbtle) 感谢开源社区.
