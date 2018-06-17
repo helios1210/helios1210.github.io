@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Helios's blog
+      title: 何志军的blog
 
 description: Stylish Jekyll Theme
 author: 
