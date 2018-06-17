@@ -5,7 +5,9 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-dbylltitle: 何志军
+disqus: 
+google_analytics: 
+dbylltitle: Helios
 
 defaults:
   -
@@ -15,8 +17,8 @@ defaults:
       title: Helios's blog
 
 description: Stylish Jekyll Theme
-author: 何志军
-  name: 何志军
+author: Helios
+  name: Helios
   email: helios_he@outlook.com
   github: helios1210
   twitter: helios87675156
